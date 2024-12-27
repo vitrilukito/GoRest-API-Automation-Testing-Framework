@@ -42,7 +42,7 @@ The following dependencies are included in the project:
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/gorest-api-testing.git
+   git clone https://github.com/vitrilukito/GoRest-API-Automation-Testing-Framework.git
 2. Open the project in IntelliJ IDEA or your preferred IDE
 3. Ensure that Gradle is installed and properly configured in your IDE
 4. Run the following Gradle command to download the required dependencies: ./gradlew build
